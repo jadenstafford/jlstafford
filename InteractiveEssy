@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bias Awareness Exercise</title>
+</head>
+<body>
+    <h1>Bias Awareness Exercise</h1>
+    <p>Describe a situation where bias influenced a workplace decision. Reflect on its consequences and propose one actionable step to challenge bias in similar situations.</p>
+    <form>
+        <label for="situation">What was the situation?</label><br>
+        <textarea id="situation" rows="4" cols="50"></textarea><br><br>
+
+        <label for="bias">What bias influenced the decision?</label><br>
+        <textarea id="bias" rows="4" cols="50"></textarea><br><br>
+
+        <label for="outcome">What was the outcome?</label><br>
+        <textarea id="outcome" rows="4" cols="50"></textarea><br><br>
+
+        <label for="action">What steps could you take to address similar biases in the future?</label><br>
+        <textarea id="action" rows="4" cols="50"></textarea><br><br>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
